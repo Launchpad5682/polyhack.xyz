@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/polyhack.xyz/static/css/main.073c9b0a.css",
+    "main.js": "/polyhack.xyz/static/js/main.a7234a7d.js",
+    "static/js/787.bfa91d85.chunk.js": "/polyhack.xyz/static/js/787.bfa91d85.chunk.js",
+    "static/media/logo.svg": "/polyhack.xyz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/polyhack.xyz/index.html",
+    "main.073c9b0a.css.map": "/polyhack.xyz/static/css/main.073c9b0a.css.map",
+    "main.a7234a7d.js.map": "/polyhack.xyz/static/js/main.a7234a7d.js.map",
+    "787.bfa91d85.chunk.js.map": "/polyhack.xyz/static/js/787.bfa91d85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a7234a7d.js"
+  ]
+}
