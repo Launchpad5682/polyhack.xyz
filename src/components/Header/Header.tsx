@@ -6,7 +6,7 @@ export const Header = () => {
     <Wrapper>
       <PolyhackTitle>polyhack.xyz</PolyhackTitle>
       <Nav>
-        <Link to="/">list</Link>
+        <Link to="/">wallets</Link>
         <Link to="/about">about</Link>
         <Link to="/contribute">contribute</Link>
       </Nav>
