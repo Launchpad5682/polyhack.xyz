@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/polyhack.xyz/static/js/main.093005af.js",
-    "index.html": "/polyhack.xyz/index.html",
-    "main.093005af.js.map": "/polyhack.xyz/static/js/main.093005af.js.map"
+    "main.js": "/static/js/main.6bdc140f.js",
+    "index.html": "/index.html",
+    "main.6bdc140f.js.map": "/static/js/main.6bdc140f.js.map"
   },
   "entrypoints": [
-    "static/js/main.093005af.js"
+    "static/js/main.6bdc140f.js"
   ]
 }
